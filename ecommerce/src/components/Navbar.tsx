@@ -34,9 +34,6 @@ export default function Navbar() {
       <Wrapper>
         <Left>
           <Language>PT-BR</Language>
-          <SearchContainer>
-            
-          </SearchContainer>
         </Left>
         <Center>center</Center>
         <Right>right</Right>
