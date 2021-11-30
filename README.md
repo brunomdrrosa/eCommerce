@@ -23,7 +23,7 @@ Decidi realizar este projeto para praticar especificamente Node.js e React, já 
 
 ## 📝 Lista de Tarefas
 
-- [ ] Realizar o deploy da aplicação no Heroku/Vercel
+- [X] Realizar o deploy da aplicação no Heroku/Vercel
 - [X] Utilizar o Styled Components para estilizar os componentes ao invés do CSS
 - [ ] Utilizar o Material-UI para adicionar ícones na aplicação
 - [ ] Realizar o design da aplicação no React
