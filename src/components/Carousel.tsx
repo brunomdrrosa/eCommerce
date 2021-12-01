@@ -52,7 +52,7 @@ const ImgContainer = styled.div`
 
 const Image = styled.img`
   margin-top: 20px;
-  height: 80%;
+  height: 100%;
 `;
 
 const InfoContainer = styled.div`
@@ -82,9 +82,9 @@ const Slider = () => {
   const [slideIndex, setSlideIndex] = useState(0);
   const handleClick = (direction: string) => {
     if (direction === "left") {
-      setSlideIndex(slideIndex > 0 ? slideIndex - 1 : 4);
+      setSlideIndex(slideIndex > 0 ? slideIndex - 1 : 5);
     } else if (direction === "right") {
-      setSlideIndex(slideIndex < 4 ? slideIndex + 1 : 0);
+      setSlideIndex(slideIndex < 5 ? slideIndex + 1 : 0);
     } else {
       setSlideIndex(slideIndex);
     }
