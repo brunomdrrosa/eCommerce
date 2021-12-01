@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://youtu.be/y66RgYMAgSo"><img src="https://i.imgur.com/MaqnUbd.jpg"/></a>
+<a href="https://youtu.be/y66RgYMAgSo"><img src="https://i.imgur.com/PPqglPz.png"/></a>
 </p>
 
 <h4 align="center"> 
