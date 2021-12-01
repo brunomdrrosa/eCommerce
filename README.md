@@ -27,8 +27,9 @@ Decidi realizar este projeto para praticar especificamente Node.js e React, já 
 - [X] Utilizar o Styled Components para estilizar os componentes ao invés do CSS
 - [X] Utilizar o Material-UI para adicionar ícones na aplicação
 - [X] Realizar o design da aplicação no React
-- [ ] Criar uma aplicação no Express
-- [ ] Adicionar a conexão do MongoDB
+- [X] Criar uma aplicação no Express
+- [X] Adicionar a conexão do MongoDB
+- [X] Utilizar o dotenv para esconder a URL do MongoDB
 - [ ] Implementar o JWT e as operações de CRUD
 - [ ] Implementar o Stripe para ser possível a realização de pagamentos
 - [ ] Adicionar os filtros dos produtos
